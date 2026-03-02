@@ -17,8 +17,8 @@ var_b.grid(row=1, column=1)
 ans_text.grid(row=2, column=1)
 
 def read_variables():
-    a = int(var_a.get())
-    b = int(var_b.get())
+    a = float(var_a.get())
+    b = float(var_b.get())
     return a, b
 
 def add_button():
