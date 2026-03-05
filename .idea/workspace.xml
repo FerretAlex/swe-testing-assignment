@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ffc675d-1f65-4e69-a48a-28c1ddd9ed99" name="Changes" comment="feat: added tests directory with 4 unit tests for main functionality and two for edge cases">
+    <list default="true" id="8ffc675d-1f65-4e69-a48a-28c1ddd9ed99" name="Changes" comment="feat: added unit tests for very large numbers and the clear function of the main functionality">
+      <change afterPath="$PROJECT_DIR$/TESTING.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for tests.test_logic.test_main_functionality">
+  <component name="RunManager">
     <configuration name="Python tests for tests.test_edge_cases.test_edge_cases" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="QuickCalc" />
       <option name="ENV_FILES" value="" />
@@ -148,13 +150,22 @@
       <option name="project" value="LOCAL" />
       <updated>1772450588243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: added unit tests for very large numbers and the clear function of the main functionality">
+      <option name="closed" value="true" />
+      <created>1772454192599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772454192599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit with a basic README and a test script" />
     <MESSAGE value="Added first version of calc logic with addition, multiplication, subtraction, division and clear" />
     <MESSAGE value="feat: added tests directory with 4 unit tests for main functionality and two for edge cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: added tests directory with 4 unit tests for main functionality and two for edge cases" />
+    <MESSAGE value="feat: added unit tests for very large numbers and the clear function of the main functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added unit tests for very large numbers and the clear function of the main functionality" />
   </component>
 </project>
